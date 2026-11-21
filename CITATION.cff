@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
-title: "CCTV Fall Detection Dataset: synthetic CCTV images with YOLO and COCO labels"
+title: "CCTV Fall Detection Dataset: CCTV images with YOLO and COCO labels"
 authors:
   - name: Simuletic
     website: "https://simuletic.com"

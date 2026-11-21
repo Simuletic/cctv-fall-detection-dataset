@@ -1,4 +1,4 @@
-# CCTV Fall Detection Dataset: free sample (synthetic CCTV, YOLO + COCO)
+# CCTV Fall Detection Dataset: free sample (CCTV, YOLO + COCO)
 
 **Synthetic CCTV images of people who have fallen, next to people sitting, kneeling and crouching, with YOLO and COCO boxes: 60 free images here, 1,000 in the full dataset.**
 
@@ -109,7 +109,7 @@ The images and labels in this sample are licensed under [CC BY-NC 4.0](https://c
 ```bibtex
 @misc{simuletic_fall_2026,
   author       = {{Simuletic}},
-  title        = {CCTV Fall Detection Dataset: synthetic CCTV images with YOLO and COCO labels},
+  title        = {CCTV Fall Detection Dataset: CCTV images with YOLO and COCO labels},
   year         = {2026},
   publisher    = {Simuletic},
   howpublished = {\url{https://simuletic.com/datasets/cctv-fall-incident-detection-dataset}},
